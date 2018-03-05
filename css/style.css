@@ -185,7 +185,7 @@ img {
 
     .column {
         width: 80%;
-        margin-left: 50px;
+        margin-left: 40px;
 	
     }
 
@@ -197,22 +197,17 @@ img {
     }
 
     .heading-primery-main {
-        font-size: 25px;
+        font-size: 20px;
     }
 
     .heading-primery-sub {
-        font-size: 18px;
+        font-size: 16px;
     }
 
     .header-text {
         font-size: 3vw;
     }
-   /*
-    .udacity-logo {
-        width: 110px;
-        height: 90px;
-    } 
-        */
+ 
 }
 
 @media only screen and (max-width: 500px) {
